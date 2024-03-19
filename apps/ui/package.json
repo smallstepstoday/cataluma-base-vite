@@ -13,7 +13,8 @@
   "dependencies": {
     "components": "workspace:^",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "utils": "workspace:^"
   },
   "devDependencies": {
     "@types/node": "^20.11.29",
