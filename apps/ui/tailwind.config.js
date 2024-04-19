@@ -5,7 +5,7 @@ export default {
   content: [
     './index.html',
     './src/**/*.{js,ts,jsx,tsx}',
-    '../../packages/components/*.tsx',
+    '../../packages/components/lib/*.tsx',
   ],
   presets: [preset],
 };

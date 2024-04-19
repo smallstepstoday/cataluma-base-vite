@@ -2,7 +2,7 @@
   "name": "components",
   "private": true,
   "description": "",
-  "main": "./index.ts",
+  "main": "./lib/index.ts",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
